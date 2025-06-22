@@ -190,10 +190,6 @@ Contributions are welcome! To contribute:
 
 Please follow the Contributing Guidelines (if added later) and report issues via the GitHub Issues tab.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 
 - Inspired by standard UART designs and Verilog tutorials.
